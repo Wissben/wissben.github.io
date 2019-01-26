@@ -1,0 +1,47 @@
+/*~~~~~ Reponsive Saïd Ziani Website Style ~~~~~*/
+/************************/
+/*@media(min-width:1400px) and (max-width:1920px) {
+
+}*/
+/************************/
+/*@media(min-width:1200px) and (max-width:1400px) {
+
+}
+*/
+/************************/
+@media(min-width:1400px) {
+    
+}
+/************************/
+@media(min-width:992px) and (max-width:1199px) {
+}
+/************************/
+
+/************************/
+
+/************************/
+@media (max-width:850px) {
+    .container{display: block;}  
+    #content #levels{width: 100%}
+    #content .skill-bar{width: 100% !important} 
+}
+@media(min-width:768px) and (max-width:1050px) {
+}
+/************************/
+@media(max-width:740px) {
+    
+}
+
+/************************/
+@media(max-width:540px) {
+
+}
+/************************/
+@media(max-width:400px) {
+
+}   
+/************************/
+@media(max-width:320px) {
+
+}
+
